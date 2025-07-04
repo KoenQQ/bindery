@@ -1,33 +1,15 @@
-# assistant-ui-langgraph-fastapi
+# bindery
 
 
-A demonstration project that combines LangGraph, assistant-stream, and FastAPI to create an AI agent with a modern UI. The project uses [assistant-ui](https://www.assistant-ui.com/) and Next.js.
+A literay agent that supports aspiring authors in their journey of delivering a manuscript. 
 
 ## Overview
 
-This project showcases:
-
-- A LangGraph agent running on a FastAPI
-- Real-time response streaming to the frontend using assistant-stream
-- A modern chat UI built with assistant-ui and Next.js
-- Demonstrate how to integrate external tools and APIs
-
-## Prerequisites
-
-- Python 3.11
-- Node.js v20.18.0
-- npm v10.9.2
-- Yarn v1.22.22
-
-## Project Structure
-
-```
-assistant-ui-langgraph-fastapi/
-├── backend/         # FastAPI + assistant-stream + LangGraph server
-└── frontend/        # Next.js + assistant-ui client
-```
+add what this project is about 
 
 ## Setup Instructions
+
+How to get this running locally
 
 ### Set up environment variables
 
